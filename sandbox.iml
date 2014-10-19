@@ -140,6 +140,11 @@
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.5" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:16.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.joda:joda-money:0.6" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-guava:2.4.0" level="project" />
   </component>
 </module>
 
